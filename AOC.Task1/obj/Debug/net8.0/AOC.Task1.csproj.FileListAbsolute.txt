@@ -1,0 +1,14 @@
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\bin\Debug\net8.0\AOC.Task1.exe
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\bin\Debug\net8.0\AOC.Task1.deps.json
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\bin\Debug\net8.0\AOC.Task1.runtimeconfig.json
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\bin\Debug\net8.0\AOC.Task1.dll
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\bin\Debug\net8.0\AOC.Task1.pdb
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\obj\Debug\net8.0\AOC.Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\obj\Debug\net8.0\AOC.Task1.AssemblyInfoInputs.cache
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\obj\Debug\net8.0\AOC.Task1.AssemblyInfo.cs
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\obj\Debug\net8.0\AOC.Task1.csproj.CoreCompileInputs.cache
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\obj\Debug\net8.0\AOC.Task1.dll
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\obj\Debug\net8.0\refint\AOC.Task1.dll
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\obj\Debug\net8.0\AOC.Task1.pdb
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\obj\Debug\net8.0\AOC.Task1.genruntimeconfig.cache
+C:\Users\JoonasKiiskinen\advent_of_code\AOC.Task1\obj\Debug\net8.0\ref\AOC.Task1.dll

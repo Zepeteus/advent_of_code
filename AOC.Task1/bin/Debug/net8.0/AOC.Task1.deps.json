@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AOC.Task1/1.0.0": {
+        "runtime": {
+          "AOC.Task1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AOC.Task1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
